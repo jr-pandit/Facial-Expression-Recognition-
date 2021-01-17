@@ -21,6 +21,7 @@
       It gives you the real time Facial Expression Detection and predict what a person is thinking .
       
   Technologies used are
+         PYTHON
          MACHINE LEARNING
          OPEN-CV
          ANACONDA JUPITER NOTEBOOK
